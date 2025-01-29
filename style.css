@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.container{
+    margin: 10px auto;
+}
+.box1{
+    margin: 30px auto;
+    background-color: red;
+    border: 3px solid black;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.box2{
+    margin: 30px auto;
+    background-color: blue;
+    border: 3px solid black;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+.box3{
+    margin: 30px auto;
+    background-color: green;
+    border: 3px solid black;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+.box4{
+    margin: 30px auto;
+    background-color: yellow;
+    border: 3px solid black;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
